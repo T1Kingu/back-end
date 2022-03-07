@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dylan Abrahan",
+	"description": "Tutorial",
 	"dependencies": {
 		"express": "^4.17.3"
 	},
