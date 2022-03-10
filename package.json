@@ -2,6 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dylan Abrahan",
 	"description": "Tutorial",
+	"license": "MIT",
+	"version": "1.1.0",
+	"keywords": ["tutorial", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.17.3"
 	},
